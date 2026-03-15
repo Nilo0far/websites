@@ -1,2 +1,16 @@
-# websites
-Collection of my frontend website projects built with HTML, CSS, Bootstrap and JavaScript.
+# My Website Projects
+
+This repository contains a collection of my frontend website projects and practice builds.
+
+## Projects
+
+### 🚚 Moving Service Website
+
+A responsive landing page for a moving company built with Bootstrap.
+
+Live Demo:
+https://nilo0far.github.io/websites/moving-service/
+
+---
+
+More projects will be added soon.
